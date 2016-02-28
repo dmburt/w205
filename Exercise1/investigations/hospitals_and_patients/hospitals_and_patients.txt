@@ -1,0 +1,22 @@
+HOSPITALS AND PATIENTS
+
+SUMMARY:
+Using post-operative complication rate scores as a proxy for overall hospital quality,
+I calculated the per-hospital average score for complications, weighted by denominator,
+to account for higher opportunity/risk associated with performing a higher number of 
+surgical procedures.  I used a Pearson Product Moment correlation of this hospital-
+level weighted quality score with the hospitals' overall CAHPS Star rating to assess
+the degree to which higher quality is related to overall patient satisfaction with a
+hospital.
+
+
+
+RESULTS:
+
+Corr
+------------------
+0.137526
+
+R-Squared
+------------------
+0.018913

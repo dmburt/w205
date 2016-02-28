@@ -1,0 +1,25 @@
+HOSPITAL VARIABILITY
+
+SUMMARY:
+Wide variation in procedure volume--particularly at a state
+level--may lead us to further exploration of drivers in health
+care cost and quality.  Some procedures may be performed largely
+in only a few cutting-edge hospitals, while many others may be
+commonplace.  To start, we look at the states with the largest
+standard deviation procedure volume--by major body system.
+
+
+RESULTS:
+
+State   SD                      System
+-----   ----------------------  ------
+KS      77104.67901435358       CAR
+VA      58497.06188655947       OTH
+ND      12389.29695918445       SKN
+SD      12059.63778106649       SKN
+IN      11376.94102935972       OTH
+MT       9765.25854227300       SKN
+FL       7747.18068439544       GI
+MA       6993.57005731811       SKN
+UT       6816.49149136811       SKN
+WI       6656.77032680711       GI

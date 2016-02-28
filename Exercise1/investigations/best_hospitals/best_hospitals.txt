@@ -1,0 +1,23 @@
+BEST HOSPITALS
+
+SUMMARY:
+Using post-operative complication rate scores as a proxy for overall hospital quality,
+I calculated the per-hospital average score for complications, weighted by denominator,
+to account for higher opportunity/risk associated with performing a higher number of 
+surgical procedures.
+
+
+RESULTS:
+
+ProviderID  Score
+---------- ------
+050099      34.15
+370093       5.59
+231310       5.00
+210057       5.00
+241363       5.00
+210039       5.00
+210035       5.00
+050696       4.97
+250001       4.70
+460003       4.68
